@@ -25,6 +25,6 @@ https://vcl.seoultech.ac.kr/home.html
         * I Can play Electric Guitar, Fingerstyle, Bass
     * Stars
         * When I was 16 years old!
-        * ![me](./miliyway.jpg)
+        * ![me]([./miliyway.jpg](https://github.com/stellacustodis/OpenSourceSoftwareLecture/blob/main/milkyway.jpg)https://github.com/stellacustodis/OpenSourceSoftwareLecture/blob/main/milkyway.jpg)
         
       
