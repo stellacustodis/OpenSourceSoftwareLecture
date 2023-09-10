@@ -9,5 +9,5 @@ I don't have enough experience to fill out my profile yet, but I'll try to fill 
 
 Thank you!
 
-#Our Lag link
+## Our Lab link
 https://vcl.seoultech.ac.kr/home.html
