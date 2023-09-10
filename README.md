@@ -24,7 +24,6 @@ https://vcl.seoultech.ac.kr/home.html
     * Rock Music
         * I Can play Electric Guitar, Fingerstyle, Bass
     * Stars
-        * When I was 16 years old.
-        <img src="C:\Users\desid\Desktop\KakaoTalk_20230910_212751600.jpg">
+        * When I was 16 years old!
         
       
